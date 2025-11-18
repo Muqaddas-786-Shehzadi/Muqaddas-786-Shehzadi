@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h2 align="left">Hi 👋! My name is Muqaddas Shehzadi and I'm a Pessionate Developer , from Karachi pakistan </h2>
+<h2 align="left">Hi 👋! My name is Muqaddas Shehzadi and I'm a Passionate Fronted Developer , from Karachi pakistan </h2>
 
 ###
 
@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/.svg" alt="Snake animation" />
 
 ###
 
