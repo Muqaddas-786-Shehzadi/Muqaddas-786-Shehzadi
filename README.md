@@ -27,7 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/vector-logo/255386/bootstrap-framework" height="30" alt="Bootstrap logo"  />
+ 
   
 </div>
 
